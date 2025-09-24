@@ -133,3 +133,6 @@ thumb
 sketch
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node,react
+/lib/generated/prisma
+
+/lib/generated/prisma
