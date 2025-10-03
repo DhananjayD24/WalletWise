@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 import { toast } from "sonner";
 
@@ -26,3 +27,5 @@ const useFetch = (cb) => {
 };
 
 export default useFetch;
+
+//hook
